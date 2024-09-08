@@ -8,3 +8,4 @@ He is interested in improving and developing professional skills in the field of
 
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [deadbenjamin@yandex.ru](mailto:deadbenjamin@yandex.ru)
+*   📋  This is my [Hexlet CV](https://cv.hexlet.io/ru/resumes/7357) and [Hexlet profile](https://ru.hexlet.io/u/khaazum)
